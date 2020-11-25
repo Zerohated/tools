@@ -1,0 +1,17 @@
+Stage = "test"
+
+[BasicAuth]
+Account = "admin"
+Password = "123456"
+
+[PostgresConf]
+Host = "localhost"
+Port = "5432"
+User = "metro"
+DBName = "metro"
+Password = "metro"
+
+[MongoConf]
+ModuleName = "mongo"
+ConnectionStr = "mongodb://localhost:27017"
+PoolLimit = 1000

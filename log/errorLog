@@ -1,0 +1,3 @@
+[service.go:89::github.com/Zerohated/tools/pkg/customer.MobileByUKey()] Nov 13 11:53:28.722 [W] Get "https://api.metro.com.cn/external/ccc/customer?u_key=12_823165_1": dial tcp 47.110.215.5:443: connect: connection refused
+[service.go:89::github.com/Zerohated/tools/pkg/customer.MobileByUKey()] Nov 13 11:58:19.026 [W] Get "https://api.metro.com.cn/external/ccc/customer?u_key=12_809600_1": dial tcp 47.110.215.5:443: connect: connection refused
+[service.go:89::github.com/Zerohated/tools/pkg/customer.MobileByUKey()] Nov 13 12:23:57.239 [W] Get "https://api.metro.com.cn/external/ccc/customer?u_key=28_708934_1": dial tcp 47.110.215.5:443: connect: connection refused
